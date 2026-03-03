@@ -1,6 +1,6 @@
 recto
 
-![Coordonnée Romger Carton](/images/carteDeVisite2026-1.pdf "Coordonnée")
+![Coordonnée Romger Carton](/images/carteDeVisite2026-1.jpg "Coordonnée")
 
 recto mirroir
 
