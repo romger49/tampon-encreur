@@ -1,6 +1,6 @@
 recto
 
-![Coordonnée Romger Carton](/images/carteDeVisite2026-1.jpg "Coordonnée")
+![Coordonnée Romger Carton](/images/carteDeVisite2026-1.pdf "Coordonnée")
 
 recto mirroir
 
@@ -12,7 +12,7 @@ Verso
 
 recto mirroir
 
-![Logo Romger Carton](/images/carteDeVisiteLogo2026.final.svg "Logo")
+![Logo Romger Carton](/images/carteDeVisiteLogo2026-final.svg "Logo")
 
 Manche Préhistorique ;)) dimension 85x55mm
 
